@@ -1,16 +1,16 @@
 class Solution {
 public:
+bool solve(int i,int n){
+    //base case
+    if(pow(2,i)==n)
+    return true;
+
+    if(pow(2,i)>n)
+    return false;
+
+    return solve(i+1,n);
+}
     bool isPowerOfTwo(int n) {
-        //base case
-        if(n<=0) {
-            return false;
-        }
-        if(n==1){
-            return true;
-        }
-        if(n%2!=0){
-            return false;
-        }
-        return isPowerOfTwo(n/2);
+        return solve(0,n);
     }
 };
