@@ -1,23 +1,23 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char>st;
-        int n = s.length();
+        stack<char> st;
 
-        for(int i=0;i<n;i++){
-            char ch=s[i];
-            if(ch=='(' || ch=='{' || ch=='['){
-                st.push(ch);
-            }
-            else{
-                if(st.size()==0) return false;
-                char tp=st.top();
+        for (char c : s) {
+            if (c == '(' || c == '{' || c == '[') {
+                st.push(c);
+            } else {
+                if (st.empty()) return false;
+
+                if ((c == ')' && st.top() != '(') ||
+                    (c == '}' && st.top() != '{') ||
+                    (c == ']' && st.top() != '['))
+                    return false;
+
                 st.pop();
-                if(ch==')' && tp!='(') return false;
-                if(ch=='}' && tp!='{') return false;
-                if(ch==']' && tp!='[') return false;
             }
         }
+
         return st.empty();
     }
 };
