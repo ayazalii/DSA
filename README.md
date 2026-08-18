@@ -24,12 +24,14 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -44,6 +46,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Greedy
@@ -54,6 +57,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -62,6 +66,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -71,6 +76,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
