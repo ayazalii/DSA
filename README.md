@@ -98,4 +98,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ayazalii/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
