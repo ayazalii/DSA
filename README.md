@@ -105,6 +105,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ayazalii/DSA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ayazalii/DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayazalii/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
