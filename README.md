@@ -92,6 +92,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -115,4 +116,16 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
