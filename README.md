@@ -32,6 +32,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -87,6 +88,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Breadth-First Search
@@ -129,4 +131,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
