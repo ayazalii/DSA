@@ -93,6 +93,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Breadth-First Search
 |  |
@@ -129,10 +130,12 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
+| [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Iterator
 |  |
 | ------- |
