@@ -109,6 +109,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ayazalii/DSA/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/ayazalii/DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ayazalii/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ayazalii/DSA/tree/master/0584-find-customer-referee) |
