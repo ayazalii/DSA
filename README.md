@@ -21,6 +21,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayazalii/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -63,6 +65,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -78,6 +81,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
