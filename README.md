@@ -21,6 +21,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 ## Array
@@ -183,4 +185,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
