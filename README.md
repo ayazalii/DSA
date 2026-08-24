@@ -29,6 +29,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayazalii/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -58,6 +60,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayazalii/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -72,6 +75,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -82,6 +86,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -92,6 +97,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -173,4 +179,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
