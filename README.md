@@ -49,6 +49,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayazalii/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ayazalii/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayazalii/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ayazalii/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Breadth-First Search
 |  |
 | ------- |
