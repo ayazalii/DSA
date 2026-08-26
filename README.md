@@ -38,6 +38,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
@@ -188,6 +189,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 ## Longest Common Subsequence
 |  |
