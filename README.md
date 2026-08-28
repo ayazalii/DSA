@@ -9,6 +9,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
@@ -38,6 +39,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
@@ -75,6 +77,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
