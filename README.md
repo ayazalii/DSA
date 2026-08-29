@@ -37,6 +37,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayazalii/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -74,6 +75,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
@@ -96,6 +98,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Counting
@@ -107,6 +110,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
@@ -114,11 +118,13 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Nim Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 ## Hash Table
@@ -249,4 +255,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
