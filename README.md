@@ -184,16 +184,19 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Sorting
 |  |
