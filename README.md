@@ -53,6 +53,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ayazalii/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ayazalii/DSA/tree/master/1563-stone-game-v) |
@@ -279,4 +280,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ayazalii/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
