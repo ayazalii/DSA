@@ -1,14 +1,17 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {
-        int mn=nums1[0];
-        bool odd=0;
-
-        for(auto&x:nums1){
-            mn=min(mn,x);
-            odd|=x&1;
-
+    bool uniformArray(vector<int>& nums) {
+        int smallestOdd=INT_MAX;
+        for(int num:nums){
+            if(num%2==1)
+                smallestOdd=min(smallestOdd,num);
         }
-        return(mn & 1)==odd;
+        if(smallestOdd==INT_MAX) return true;
+
+        for(int num:nums){
+            if(num%2==0 && num<=smallestOdd)
+            return false;
+        }
+        return true;
     }
 };
