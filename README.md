@@ -73,6 +73,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayazalii/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayazalii/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayazalii/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ayazalii/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/ayazalii/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
