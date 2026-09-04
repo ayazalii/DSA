@@ -185,6 +185,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0595-big-countries](https://github.com/ayazalii/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ayazalii/DSA/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ayazalii/DSA/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/ayazalii/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/ayazalii/DSA/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/ayazalii/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/ayazalii/DSA/tree/master/1211-queries-quality-and-percentage) |
