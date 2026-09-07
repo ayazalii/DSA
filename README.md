@@ -26,6 +26,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayazalii/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
@@ -40,6 +41,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayazalii/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
