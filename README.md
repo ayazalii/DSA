@@ -67,6 +67,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0724-find-pivot-index](https://github.com/ayazalii/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -193,6 +194,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/ayazalii/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
