@@ -65,6 +65,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ayazalii/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayazalii/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -96,6 +97,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -253,6 +255,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/ayazalii/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
