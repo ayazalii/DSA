@@ -26,6 +26,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayazalii/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -98,6 +99,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -340,6 +342,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayazalii/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayazalii/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayazalii/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
