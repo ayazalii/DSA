@@ -194,6 +194,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -270,6 +271,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -278,6 +280,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -286,6 +289,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
