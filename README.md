@@ -320,6 +320,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
+| [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Iterator
 |  |
@@ -394,4 +395,12 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
