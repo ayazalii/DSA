@@ -28,6 +28,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayazalii/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -134,6 +135,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
@@ -401,6 +403,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
