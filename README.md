@@ -10,6 +10,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -65,6 +66,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
