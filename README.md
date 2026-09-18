@@ -115,12 +115,14 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
+| [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 ## Iterator
@@ -424,6 +427,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
 ## Combinatorics
 |  |
