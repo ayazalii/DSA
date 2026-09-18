@@ -35,6 +35,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayazalii/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -144,6 +145,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayazalii/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -193,6 +195,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -312,6 +315,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
