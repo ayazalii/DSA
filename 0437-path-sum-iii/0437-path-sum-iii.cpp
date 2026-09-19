@@ -11,27 +11,25 @@
  */
 class Solution {
 public:
-    int ans = 0;
-    unordered_map<long, int> mp;
+int ans=0;
+unordered_map<long,int> mp;
+    void dfs(TreeNode* root,long cursum, int target) {
+        if(!root) return;
 
-    void dfs(TreeNode* root, long curSum, int target) {
-        if (!root) return;
+        cursum+=root->val;
 
-        curSum += root->val;
+        if(cursum == target) ans++;
+        if(mp.count(cursum-target)) ans+=mp[cursum-target];
+        mp[cursum]++;
 
-        if (curSum == target) ans++;
-        if (mp.count(curSum - target)) ans += mp[curSum - target];
+        dfs(root->left,cursum,target);
+        dfs(root->right,cursum,target);
 
-        mp[curSum]++;
-
-        dfs(root->left, curSum, target);
-        dfs(root->right, curSum, target);
-
-        mp[curSum]--;
+        mp[cursum]--;
     }
-
-    int pathSum(TreeNode* root, int targetSum) {
-        dfs(root, 0, targetSum);
-        return ans;
-    }
+int pathSum(TreeNode* root,int targetsum)
+{
+    dfs(root,0,targetsum);
+    return ans;
+}
 };
