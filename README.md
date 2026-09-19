@@ -14,6 +14,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -196,6 +197,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -368,6 +370,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayazalii/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ayazalii/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayazalii/DSA/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayazalii/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -441,4 +444,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
