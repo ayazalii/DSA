@@ -1,8 +1,15 @@
 class Solution {
 public:
     int reverseDegree(string s) {
-        int sum=0, n=s.size();
-        for(int i=0;i<n;i++) sum+=(i+1)*('z'-s[i]+1);
+        int sum=0;
+        for(int i=0;i<s.length();i++){
+            char c=s[i];
+
+            int reversevalue=26-(c-'a');
+            int position=i+1;
+
+            sum+=reversevalue*position;
+        }
         return sum;
     }
 };
