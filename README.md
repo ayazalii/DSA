@@ -78,6 +78,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayazalii/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
@@ -178,6 +179,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayazalii/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -206,6 +208,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -341,6 +344,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -352,6 +356,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -482,4 +487,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayazalii/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
