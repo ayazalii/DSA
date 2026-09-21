@@ -1,18 +1,4 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int>mp;//to map the frequency of an array element
-        for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-        }
-        int max=INT_MIN;
-        int ans; // majority element
-        for(int i=0;i<nums.size();i++){
-            if(mp[nums[i]]>max) {
-                max=mp[nums[i]];
-                ans=nums[i];
-            }
-        }
-       return ans;
-    }
-};
+        int res=0, majority=0; for(int n:nums){if(majority==0) res=n; majority+=n==res?1:-1; }  return res;}};
