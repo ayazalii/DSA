@@ -15,19 +15,18 @@ public:
         if(root==NULL) return NULL;
         TreeNode* curr=root;
 
-        while(curr!=NULL) {
+        while(curr!=NULL){
             if(target<curr->val){
-                //left subtree
                 curr=curr->left;
-            }
+            } 
             else if(target>curr->val){
-                //right subtree
                 curr=curr->right;
             }
             else{
                 return curr;
             }
+
         }
-            return NULL;
+        return NULL;
     }
 };
