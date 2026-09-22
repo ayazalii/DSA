@@ -17,6 +17,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
@@ -79,6 +80,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayazalii/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +140,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
