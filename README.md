@@ -54,6 +54,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayazalii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayazalii/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -146,6 +147,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -484,6 +486,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayazalii/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
