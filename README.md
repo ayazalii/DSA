@@ -64,6 +64,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayazalii/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/ayazalii/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
@@ -104,6 +105,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0724-find-pivot-index](https://github.com/ayazalii/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ayazalii/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
