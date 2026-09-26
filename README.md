@@ -36,6 +36,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
@@ -96,6 +97,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ayazalii/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ayazalii/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -254,6 +256,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayazalii/DSA/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
@@ -350,6 +353,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ayazalii/DSA/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayazalii/DSA/tree/master/0841-keys-and-rooms) |
@@ -465,6 +469,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sprague–Grundy Theorem
@@ -537,6 +542,19 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayazalii/DSA/tree/master/0841-keys-and-rooms) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
