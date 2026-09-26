@@ -30,6 +30,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ayazalii/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
@@ -58,6 +59,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/ayazalii/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ayazalii/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayazalii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
