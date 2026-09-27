@@ -42,6 +42,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0940-distinct-subsequences-ii](https://github.com/ayazalii/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayazalii/DSA/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayazalii/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayazalii/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -158,6 +159,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayazalii/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayazalii/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -573,4 +575,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayazalii/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
