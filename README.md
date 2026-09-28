@@ -61,6 +61,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ayazalii/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
@@ -95,6 +96,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayazalii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayazalii/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayazalii/DSA/tree/master/0088-merge-sorted-array) |
@@ -291,6 +293,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ayazalii/DSA/tree/master/0994-rotting-oranges) |
