@@ -174,6 +174,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayazalii/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
