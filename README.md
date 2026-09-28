@@ -72,6 +72,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayazalii/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayazalii/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/ayazalii/DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -181,6 +182,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0009-palindrome-number](https://github.com/ayazalii/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
@@ -479,6 +481,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0025-reverse-nodes-in-k-group](https://github.com/ayazalii/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayazalii/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayazalii/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -599,4 +602,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayazalii/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
