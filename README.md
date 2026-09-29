@@ -9,6 +9,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayazalii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
@@ -30,6 +31,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ayazalii/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -59,6 +61,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
@@ -610,4 +613,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
