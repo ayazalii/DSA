@@ -548,6 +548,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -637,4 +638,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
