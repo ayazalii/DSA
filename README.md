@@ -35,6 +35,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ayazalii/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/ayazalii/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
@@ -69,6 +70,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayazalii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
@@ -176,6 +178,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ayazalii/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ayazalii/DSA/tree/master/0394-decode-string) |
@@ -626,6 +629,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayazalii/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayazalii/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayazalii/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
