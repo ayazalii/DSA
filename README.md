@@ -41,6 +41,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0097-interleaving-string](https://github.com/ayazalii/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ayazalii/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -288,6 +289,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0141-linked-list-cycle](https://github.com/ayazalii/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -442,6 +444,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayazalii/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
