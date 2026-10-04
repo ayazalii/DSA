@@ -134,6 +134,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -216,6 +217,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0009-palindrome-number](https://github.com/ayazalii/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -301,6 +303,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayazalii/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -347,6 +350,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -458,6 +462,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayazalii/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
@@ -574,6 +579,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ayazalii/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
