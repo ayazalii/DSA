@@ -124,6 +124,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayazalii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayazalii/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayazalii/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0162-find-peak-element](https://github.com/ayazalii/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
@@ -567,6 +568,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ayazalii/DSA/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
