@@ -1,0 +1,1 @@
+const checkValidString = s => (f = (s, b) => [...s].reduce(([x, m], c) => [x + (c === b ? -1 : 1), Math.min(m, x + (c === b ? -1 : 1))], [0, 0])[1])(s, ')') >= 0 && f([...s].reverse(), '(') >= 0;
