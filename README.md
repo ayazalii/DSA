@@ -90,6 +90,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayazalii/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayazalii/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ayazalii/DSA/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/ayazalii/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
@@ -345,6 +347,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/ayazalii/DSA/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ayazalii/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
