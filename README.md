@@ -93,6 +93,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayazalii/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ayazalii/DSA/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/ayazalii/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
@@ -366,6 +367,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ayazalii/DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
