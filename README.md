@@ -137,6 +137,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0189-rotate-array](https://github.com/ayazalii/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayazalii/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/ayazalii/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ayazalii/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ayazalii/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
@@ -564,6 +565,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayazalii/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/ayazalii/DSA/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayazalii/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
