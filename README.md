@@ -368,6 +368,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ayazalii/DSA/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ayazalii/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
