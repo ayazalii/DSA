@@ -154,6 +154,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayazalii/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/ayazalii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ayazalii/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -592,6 +593,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0268-missing-number](https://github.com/ayazalii/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayazalii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/ayazalii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
