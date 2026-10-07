@@ -44,6 +44,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0115-distinct-subsequences](https://github.com/ayazalii/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ayazalii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayazalii/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ayazalii/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ayazalii/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -342,6 +343,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayazalii/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ayazalii/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayazalii/DSA/tree/master/0841-keys-and-rooms) |
@@ -571,6 +573,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayazalii/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/ayazalii/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/ayazalii/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayazalii/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
