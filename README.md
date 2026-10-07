@@ -81,6 +81,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0022-generate-parentheses](https://github.com/ayazalii/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayazalii/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayazalii/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ayazalii/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
@@ -125,6 +126,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayazalii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayazalii/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayazalii/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayazalii/DSA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ayazalii/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayazalii/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayazalii/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -253,6 +255,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayazalii/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ayazalii/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayazalii/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ayazalii/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayazalii/DSA/tree/master/0334-increasing-triplet-subsequence) |
