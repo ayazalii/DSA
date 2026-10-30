@@ -24,6 +24,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayazalii/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayazalii/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayazalii/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -184,6 +185,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ayazalii/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayazalii/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
@@ -406,6 +408,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ayazalii/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayazalii/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/ayazalii/DSA/tree/master/2352-equal-row-and-column-pairs) |
