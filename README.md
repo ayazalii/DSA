@@ -79,6 +79,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayazalii/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayazalii/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayazalii/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayazalii/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -571,6 +572,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2336-smallest-number-in-infinite-set](https://github.com/ayazalii/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayazalii/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayazalii/DSA/tree/master/2542-maximum-subsequence-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayazalii/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -743,10 +745,12 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayazalii/DSA/tree/master/0841-keys-and-rooms) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayazalii/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayazalii/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
