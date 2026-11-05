@@ -23,6 +23,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0344-reverse-string](https://github.com/ayazalii/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayazalii/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayazalii/DSA/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayazalii/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -181,6 +182,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayazalii/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -566,6 +568,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayazalii/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayazalii/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayazalii/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayazalii/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -703,6 +706,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0374-guess-number-higher-or-lower](https://github.com/ayazalii/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/ayazalii/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayazalii/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
