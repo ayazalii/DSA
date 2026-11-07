@@ -194,6 +194,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayazalii/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/ayazalii/DSA/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayazalii/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -596,6 +597,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayazalii/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ayazalii/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayazalii/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayazalii/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayazalii/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
