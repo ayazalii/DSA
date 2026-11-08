@@ -182,6 +182,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -344,6 +345,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0169-majority-element](https://github.com/ayazalii/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayazalii/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/ayazalii/DSA/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayazalii/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -415,6 +417,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1096-brace-expansion-ii](https://github.com/ayazalii/DSA/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayazalii/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayazalii/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -428,6 +431,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0835-image-overlap](https://github.com/ayazalii/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ayazalii/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1861-rotating-the-box](https://github.com/ayazalii/DSA/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayazalii/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayazalii/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -538,6 +542,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0872-leaf-similar-trees](https://github.com/ayazalii/DSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayazalii/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
@@ -685,6 +690,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0399-evaluate-division](https://github.com/ayazalii/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayazalii/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayazalii/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayazalii/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
