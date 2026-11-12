@@ -217,6 +217,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayazalii/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayazalii/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ayazalii/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
