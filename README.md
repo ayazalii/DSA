@@ -219,6 +219,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayazalii/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ayazalii/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayazalii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayazalii/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,6 +266,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayazalii/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayazalii/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0316-remove-duplicate-letters](https://github.com/ayazalii/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/ayazalii/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -716,6 +719,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayazalii/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/ayazalii/DSA/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayazalii/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -743,6 +747,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0387-first-unique-character-in-a-string](https://github.com/ayazalii/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/ayazalii/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -785,6 +790,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayazalii/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayazalii/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/ayazalii/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayazalii/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -854,4 +860,8 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayazalii/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
