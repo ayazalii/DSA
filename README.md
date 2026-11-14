@@ -218,6 +218,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayazalii/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayazalii/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayazalii/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ayazalii/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -646,6 +647,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ayazalii/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ayazalii/DSA/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayazalii/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ayazalii/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayazalii/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Longest Common Subsequence
@@ -719,6 +721,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ayazalii/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/ayazalii/DSA/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayazalii/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayazalii/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayazalii/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
