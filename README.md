@@ -71,6 +71,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1657-determine-if-two-strings-are-close](https://github.com/ayazalii/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayazalii/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/ayazalii/DSA/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayazalii/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayazalii/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayazalii/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -523,6 +524,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0735-asteroid-collision](https://github.com/ayazalii/DSA/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayazalii/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayazalii/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/ayazalii/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayazalii/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
