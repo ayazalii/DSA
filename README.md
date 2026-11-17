@@ -31,6 +31,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayazalii/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayazalii/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayazalii/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayazalii/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayazalii/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayazalii/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -75,6 +76,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2390-removing-stars-from-a-string](https://github.com/ayazalii/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayazalii/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayazalii/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayazalii/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayazalii/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayazalii/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayazalii/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -127,6 +129,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayazalii/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayazalii/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayazalii/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayazalii/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayazalii/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
