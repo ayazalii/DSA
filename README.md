@@ -216,6 +216,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2352-equal-row-and-column-pairs](https://github.com/ayazalii/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayazalii/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayazalii/DSA/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayazalii/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2747-count-zero-request-servers](https://github.com/ayazalii/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayazalii/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -342,6 +343,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayazalii/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayazalii/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/ayazalii/DSA/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayazalii/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayazalii/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayazalii/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayazalii/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -604,6 +606,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayazalii/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayazalii/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayazalii/DSA/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayazalii/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ayazalii/DSA/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayazalii/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayazalii/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
