@@ -193,6 +193,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [1207-unique-number-of-occurrences](https://github.com/ayazalii/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ayazalii/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayazalii/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayazalii/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayazalii/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ayazalii/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayazalii/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -300,6 +301,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayazalii/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/ayazalii/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayazalii/DSA/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayazalii/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayazalii/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ayazalii/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayazalii/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -652,6 +654,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0284-peeking-iterator](https://github.com/ayazalii/DSA/tree/master/0284-peeking-iterator) |
 | [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayazalii/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1600-throne-inheritance](https://github.com/ayazalii/DSA/tree/master/1600-throne-inheritance) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayazalii/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Iterator
@@ -664,6 +667,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | [0238-product-of-array-except-self](https://github.com/ayazalii/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ayazalii/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayazalii/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayazalii/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayazalii/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayazalii/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayazalii/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -778,6 +782,7 @@ Welcome to my repository of LeetCode solutions! Here, I consistently solve and d
 | ------- |
 | [0901-online-stock-span](https://github.com/ayazalii/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayazalii/DSA/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayazalii/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
 | ------- |
